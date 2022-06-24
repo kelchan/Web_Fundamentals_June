@@ -1,0 +1,56 @@
+body{
+    background-color: aqua;
+    color: grey;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: firebrick;
+    background-color: cornflowerblue;
+}
+
+span{
+    color: darkkhaki;
+}
+
+h2{
+    font-size: 60px;
+    text-align: right;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: 800;
+    font-family: fantasy;
+}
+
+h3{
+    font-size: 40px;
+    font-family: monospace;
+}
+
+p{
+    color: indigo;
+    line-height: 25px;
+}
+
+#p1{
+    font-style: italic;
+    color: fuchsia;
+}
+
+.unda{
+    text-decoration: underline;
+}
+
+ol>li{
+    font-size: 28px;
+}
+
+ul>li{
+    font-size: 30px;
+}
+
+div>h3{
+    color: darkgrey;
+}
+

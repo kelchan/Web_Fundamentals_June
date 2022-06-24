@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; /* The height and width of a box will also include the margin, border, and padding in the equation. */
+}
+
+.row {
+    height: 250px;
+    outline: 1px solid black;
+    background-color: coral;
+    display: flex;
+    justify-content: center; /* aligns horizontally */
+     align-items: center; /* aligns verticaly  */
+    gap: 10px;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    outline: 1px solid red;
+}
